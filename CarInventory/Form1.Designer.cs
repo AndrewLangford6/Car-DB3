@@ -128,9 +128,9 @@
             // 
             this.closeB.Location = new System.Drawing.Point(168, 143);
             this.closeB.Name = "closeB";
-            this.closeB.Size = new System.Drawing.Size(75, 23);
+            this.closeB.Size = new System.Drawing.Size(149, 23);
             this.closeB.TabIndex = 10;
-            this.closeB.Text = "Close";
+            this.closeB.Text = "Save and Close";
             this.closeB.UseVisualStyleBackColor = true;
             this.closeB.Click += new System.EventHandler(this.closeB_Click);
             // 
